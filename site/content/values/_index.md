@@ -1,45 +1,17 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: More lyrics here on this page
+image: https://lyrics-in-hindi.com/bhakti-bhajans/%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%95%e0%a4%ae%e0%a5%8d-rudrashtakam-lyrics-in-hindi-sonu-nigam/
 values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+  - heading: Om Jai Jagadish Hare Hindi Lyrics-Anuradha Paudwal
+    text: >-
+      Om Jai Jagadish Hare Hindi Lyrics-Anuradha Paudwal
+
+      Om Jai Jagadish Hare Song DetailAlbum Name: AartiyanSinger: Anuradha PaudwalMusic Director: Arun PaudwalLyricist: TraditionalMusic Label:T-Series…
+    imageUrl: https://lyrics-in-hindi.com/song-lyrics-collection/om-jai-jagadish-hare-hindi-lyrics-anuradha-paudwal/
+  - heading: खलनायक Khalnayak Hindi Lyrics – Kulbir Jhinjer 2020
+    text: >-
+      खलनायक Khalnayak Hindi Lyrics – Kulbir Jhinjer 2020
+
+      Khalnayak Song Detail Song Title: Khalnayak LyricsSinger : Kulbir Jhinjer, Gurlej AkhtarMusic : ProofLyrics :…
+    imageUrl: https://lyrics-in-hindi.com/song-lyrics-collection/%e0%a4%96%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95-khalnayak-hindi-lyrics-kulbir-jhinjer-2020/
 ---
