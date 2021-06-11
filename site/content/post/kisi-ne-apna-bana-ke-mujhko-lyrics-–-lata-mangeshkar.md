@@ -4,6 +4,7 @@ date: 2021-06-11T08:00:22.891Z
 description: Kisi Ne Apna Bana Ke Mujhko Lyrics – Lata MangeshkarKisi Ne Apna
   Bana Ke Mujhko Lyrics – Lata MangeshkarKisi Ne Apna Bana Ke Mujhko Lyrics –
   Lata MangeshkarKisi Ne Apna Bana Ke Mujhko Lyrics – Lata Mangeshkar
+image: https://i0.wp.com/lyrics-in-hindi.com/wp-content/uploads/2021/06/0-547.jpg?w=480&ssl=1
 ---
 <!--StartFragment-->
 
